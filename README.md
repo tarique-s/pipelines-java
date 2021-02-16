@@ -1,4 +1,4 @@
-https://dev.azure.com/patliputrasoftwareconsultants/PSC/_apis/build/status/tarique-s.pipelines-java?branchName=master
+[![Build Status](https://dev.azure.com/patliputrasoftwareconsultants/PSC/_apis/build/status/tarique-s.pipelines-java?branchName=master)](https://dev.azure.com/patliputrasoftwareconsultants/PSC/_build/latest?definitionId=2&branchName=master)
 
 
 # Contributing
